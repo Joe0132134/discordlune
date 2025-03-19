@@ -1,2 +1,4 @@
-# discordlune
-a recreation of discordjs in lune/luau
+# DiscordLune
+A recreation of DiscordJS in Lune/Luau
+
+NTS: make this look better
